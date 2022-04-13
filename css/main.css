@@ -1,12 +1,16 @@
-
 /* ----------- For screens 768px and larger ----------- */
-@media () {
-	body {
-    background: red;
-  }
+
+@media (min-width: 768px) {
+    body {
+        background: peachpuff;
+    }
 }
 
-/* ----------- For screens 1200px wide and larger----------- */
-@media () {
 
+/* ----------- For screens 1200px wide and larger----------- */
+
+@media (min-width: 1200px) {
+    body {
+        background: skyblue;
+    }
 }
